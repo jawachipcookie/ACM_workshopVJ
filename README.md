@@ -1,2 +1,2 @@
 # ACM_workshopVJ
-React JS repo for the ACm workshop 
+React JS repo for the ACM workshop 
